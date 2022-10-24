@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ait Lahcen</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h2 align="center">DevOps Engineer</h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
