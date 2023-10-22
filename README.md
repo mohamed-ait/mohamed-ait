@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Ait Lahcen</h1>
-<h2 align="center">Student Engineer at ENSETM</h2>
+<h2 align="center">DevOps and Cloud Engineer</h2>
 
 <p align="left">
 </p>
